@@ -35,7 +35,3 @@ export function WeatherFunc() {
 
     
 }
-
-
-//<button onClick={this.handleButtonClick}>Отправить</button>
-//       <div style={{ color: this.state.color }}>{this.state.response}</div>
